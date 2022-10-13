@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="screen-recorder">
+    <output-path>$PROJECT_DIR$/out/artifacts/screen_recorder</output-path>
+    <root id="root">
+      <element id="archive" name="screen_recorder.jar">
+        <element id="module-output" name="screen-recorder" />
+      </element>
+    </root>
+  </artifact>
+</component>
