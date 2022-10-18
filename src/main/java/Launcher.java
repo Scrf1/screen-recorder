@@ -1,9 +1,10 @@
-import gui.MainGUI;
+import gui.frames.MainFrame;
 
 public class Launcher {
 
     public static void main(String[] args) {
-        MainGUI mainGUI = new MainGUI();
+        MainFrame mainFrame = new MainFrame();
+        mainFrame.setVisible(true);
     }
 
 }
